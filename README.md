@@ -7,7 +7,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seo6893)](https://solved.ac/seo6893)
 
-<h2>Skill</h2>
+<h2>STACKS</h2>
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 
