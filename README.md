@@ -1,9 +1,4 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=14&fontColor=142313&height=200&section=header&text=성장하는%20개발자&desc=Potential%20Engineer&animation=twinkling&fontSize=50&descSize=16&descAlign=63&descAlignY=65&stroke=d6a9d8)
-
-
-<div style="flex">
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seo6893)](https://solved.ac/seo6893)
@@ -17,5 +12,4 @@
 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/ros-22314E?style=flat&logo=ros&logoColor=white"/>
 
-</div>
 </div>
