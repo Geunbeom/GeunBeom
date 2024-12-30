@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Welcome&fontSize=40&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header&fontSize=40&fontAlignY=30)
   
 <h2>BOJ</h2>
 
@@ -17,6 +17,6 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white"/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer)
 
 </div>
